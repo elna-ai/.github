@@ -12,15 +12,15 @@ We welcome contributions from the community to help shape the future of democrat
 
 ### How to Contribute
 
-1. Explore our [GitHub organization](https://github.com/elna-live) to find ongoing development projects.
+1. Explore our [GitHub organization](https://github.com/elna-ai) to find ongoing development projects.
 2. Fork the repository you're interested in.
 3. Make your improvements or additions.
 4. Submit a pull request for review by our team.
 
 ## 👩‍💻 Useful Resources
 
-- **Demo**: Experience ELNA firsthand by exploring our [demo](https://app.elna.live/).
-- **Whitepaper**: Delve into the technical intricacies by reviewing our comprehensive [whitepaper](https://docs.elna.live).
+- **Demo**: Experience ELNA firsthand by exploring our [demo](https://dapp.elna.ai/).
+- **Whitepaper**: Delve into the technical intricacies by reviewing our comprehensive [whitepaper](https://docs.elna.ai).
 
 ## 🍿 Fun Facts
 
